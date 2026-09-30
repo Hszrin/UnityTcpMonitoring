@@ -1,0 +1,1 @@
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMesApp\obj\Debug\net8.0-windows\Unity-Tcp-MonitoringApp.csproj.AssemblyReference.cache

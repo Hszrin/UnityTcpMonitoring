@@ -1,0 +1,11 @@
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\Views\AddMachineWindow.baml
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\Views\DashboardView.baml
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\Views\AddMachineWindow.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\Views\SettingView.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\UnityTcpMonitoring_MarkupCompile.cache
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\UnityTcpMonitoring_MarkupCompile.lref
+C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\UnityTcpMonitoring.csproj.AssemblyReference.cache

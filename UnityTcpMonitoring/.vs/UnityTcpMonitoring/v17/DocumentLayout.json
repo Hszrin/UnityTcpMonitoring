@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\views\\settingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\views\\settingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228B5752-FDAB-DEAD-580B-048F2442A284}|UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring.server\\unitytcpmonitoringserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{228B5752-FDAB-DEAD-580B-048F2442A284}|UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj|solutionrelative:unitytcpmonitoring.server\\unitytcpmonitoringserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring.shared\\unitytcpmonitoringshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj|solutionrelative:unitytcpmonitoring.shared\\unitytcpmonitoringshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\migrations\\20260619002003_fuck.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\migrations\\20260619002003_fuck.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring\\unitytcpmonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB67F29B-C460-4393-AF48-2BF788A48073}|UnityTcpMonitoring\\UnityTcpMonitoring.csproj|solutionrelative:unitytcpmonitoring\\unitytcpmonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoring.Shared.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring.shared\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoring.Shared.csproj|solutionrelative:unitytcpmonitoring.shared\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoring.Shared.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\unitytcpmonitoring.shared\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A220D902-5E89-52E9-E728-C70D9F53D53C}|UnityTcpMonitoring.Shared\\UnityTcpMonitoring.Shared.csproj|solutionrelative:unitytcpmonitoring.shared\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "RelativeToolTip": "UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:04:37.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingView.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "RelativeToolTip": "UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T14:04:36.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T14:04:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnityTcpMonitoringServer",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj",
+              "RelativeToolTip": "UnityTcpMonitoring.Server\\UnityTcpMonitoringServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:40:41.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnityTcpMonitoringShared.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj",
+              "RelativeToolTip": "UnityTcpMonitoring.Shared\\UnityTcpMonitoringShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:34:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:33:54.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:31:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "RelativeToolTip": "UnityTcpMonitoring\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:27:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260619002003_fuck.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Migrations\\20260619002003_fuck.Designer.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\Migrations\\20260619002003_fuck.Designer.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\Migrations\\20260619002003_fuck.Designer.cs",
+              "RelativeToolTip": "UnityTcpMonitoring\\Migrations\\20260619002003_fuck.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:35:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml.cs",
+              "RelativeToolTip": "UnityTcpMonitoring\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:30:07.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnityTcpMonitoring",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "RelativeToolTip": "UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:28:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring\\App.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "RelativeToolTip": "UnityTcpMonitoring\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:22:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAH0IAAAAAAAAAAASwIwIAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-29T13:27:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring.Shared\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\Models\\Machine.cs",
+              "RelativeToolTip": "UnityTcpMonitoring.Shared\\Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:22:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "UnityTcpMonitoring.Shared\\Models\\Line.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\UnityTcpMonitoring.Shared\\Models\\Line.cs",
+              "RelativeToolTip": "UnityTcpMonitoring.Shared\\Models\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:22:02.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

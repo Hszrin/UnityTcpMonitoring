@@ -1,0 +1,14 @@
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\bin\Debug\net8.0\Unity-Tcp-Monitoring.Shared.deps.json
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\bin\Debug\net8.0\Unity-Tcp-Monitoring.Shared.runtimeconfig.json
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\bin\Debug\net8.0\Unity-Tcp-Monitoring.Shared.dll
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\bin\Debug\net8.0\Unity-Tcp-Monitoring.Shared.pdb
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.csproj.AssemblyReference.cache
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.AssemblyInfoInputs.cache
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.AssemblyInfo.cs
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.csproj.CoreCompileInputs.cache
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.dll
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\refint\Unity-Tcp-Monitoring.Shared.dll
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.pdb
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\Unity-Tcp-Monitoring.Shared.genruntimeconfig.cache
+C:\Users\swjwp\source\repos\MiniMesApp\MiniMes.Shared\obj\Debug\net8.0\ref\Unity-Tcp-Monitoring.Shared.dll

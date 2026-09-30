@@ -1,0 +1,296 @@
+﻿<UserControl x:Class="UnityTcpMonitoringApp.Views.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="700" d:DesignWidth="1000"
+             Background="#1E1E1E">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" Margin="0,0,0,15" LastChildFill="False">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="🏭 실시간 생산 라인 현황" FontSize="22" FontWeight="Bold" Foreground="White" VerticalAlignment="Center"/>
+                <TextBlock Text="{Binding CurrentAdmin}" FontSize="14" Foreground="#FF5555" Margin="20,5,0,0" VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
+                <Button Content="📊 엑셀 등록" Command="{Binding ImportExcelCommand}" Width="100" Height="32" Margin="0,0,5,0" Background="#228B22" Foreground="White" BorderThickness="0"/>
+                <Button Content="🗑 기계 삭제" Command="{Binding RemoveMachineCommand}" CommandParameter="{Binding ElementName=MachineDataGrid, Path=SelectedItems}" Width="100" Height="32" Margin="0,0,5,0" Background="#DC3545" Foreground="White" BorderThickness="0"/>
+                <Button Content="🔄 새로고침" Command="{Binding RefreshMachinesCommand}" Width="100" Height="32" Background="#007ACC" Foreground="White" BorderThickness="0"/>
+            </StackPanel>
+        </DockPanel>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="생산 라인" Foreground="White" BorderBrush="#555" Background="#252525" Margin="0,0,10,0">
+                <ListBox ItemsSource="{Binding LineList}" SelectedItem="{Binding SelectedLine}" Background="#252525" BorderThickness="0" Foreground="White" HorizontalContentAlignment="Stretch">
+                    <ListBox.ItemContainerStyle>
+                        <Style TargetType="ListBoxItem">
+                            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                            <Setter Property="Padding" Value="0"/>
+                        </Style>
+                    </ListBox.ItemContainerStyle>
+
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border Background="#303030" BorderBrush="#444" BorderThickness="1" CornerRadius="5" Padding="20" Margin="5">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Grid Margin="0,0,0,20">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Text="{Binding Name}" FontSize="20" FontWeight="Bold" Foreground="White"/>
+
+                                        <TextBlock Grid.Column="1"
+                               Text="{Binding Status}"
+                               FontSize="16"
+                               FontWeight="Bold"
+                               Foreground="#28A745"
+                               VerticalAlignment="Center"/>
+                                    </Grid>
+
+                                    <Grid Grid.Row="1" Margin="0,0,0,8">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Text="목표 생산량" Foreground="#AAAAAA"/>
+                                        <TextBlock Grid.Column="1"
+                               Text="{Binding TargetProductionRate, StringFormat={}{0:0} 개/시간}"
+                               Foreground="White"
+                               FontWeight="Bold"/>
+                                    </Grid>
+
+                                    <Grid Grid.Row="2" Margin="0,0,0,8">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Text="현재 생산량" Foreground="#AAAAAA"/>
+                                        <TextBlock Grid.Column="1"
+                               Text="{Binding ProductionCount, StringFormat={}{0:0} 개}"
+                               Foreground="White"
+                               FontWeight="Bold"/>
+                                    </Grid>
+
+                                    <Grid Grid.Row="3" Margin="0,0,0,15">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Text="달성률" Foreground="#AAAAAA"/>
+                                        <TextBlock Grid.Column="1"
+                               Text="{Binding AchievementRate, StringFormat={}{0:0}%}"
+                               FontSize="22"
+                               FontWeight="Bold"
+                               Foreground="#28A745"/>
+                                    </Grid>
+
+                                    <Border Grid.Row="4"
+                        Background="#252525"
+                        BorderBrush="#444"
+                        BorderThickness="1"
+                        Padding="10"
+                        Margin="0,0,0,12">
+
+                                        <StackPanel>
+                                            <TextBlock Text="설비 상태"
+                                   FontWeight="Bold"
+                                   Foreground="#CCCCCC"
+                                   Margin="0,0,0,8"/>
+
+                                            <ItemsControl ItemsSource="{Binding Machines}">
+                                                <ItemsControl.ItemTemplate>
+                                                    <DataTemplate>
+                                                        <Grid Margin="0,3">
+                                                            <Grid.ColumnDefinitions>
+                                                                <ColumnDefinition Width="*"/>
+                                                                <ColumnDefinition Width="Auto"/>
+                                                                <ColumnDefinition Width="Auto"/>
+                                                            </Grid.ColumnDefinitions>
+
+                                                            <TextBlock Text="{Binding Name}"
+                                                   Foreground="White"/>
+
+                                                            <TextBlock Grid.Column="1"
+                                                   Text="{Binding ProductionCount, StringFormat={}{0:0}개}"
+                                                   Foreground="#AAAAAA"
+                                                   Margin="15,0"/>
+
+                                                            <TextBlock Grid.Column="2"
+                                                   Text="{Binding Status}"
+                                                   Foreground="#28A745"
+                                                   FontWeight="Bold"/>
+                                                        </Grid>
+                                                    </DataTemplate>
+                                                </ItemsControl.ItemTemplate>
+                                            </ItemsControl>
+                                        </StackPanel>
+                                    </Border>
+
+                                    <StackPanel Grid.Row="5"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right">
+
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                            <Button Content="▶ 가동"
+            Command="{Binding ControlLineCommand}"
+            CommandParameter="가동"
+            Width="85"
+            Height="30"
+            Margin="0,0,6,0"
+            Background="#28A745"
+            Foreground="White"
+            BorderThickness="0"
+            FontWeight="Bold"/>
+
+                                            <Button Content="■ 정지"
+            Command="{Binding ControlLineCommand}"
+            CommandParameter="정지"
+            Width="85"
+            Height="30"
+            Background="#DC3545"
+            Foreground="White"
+            BorderThickness="0"
+            FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </GroupBox>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <GroupBox Grid.Row="0" Header="설비 현황" Foreground="White" BorderBrush="#555" Background="#252525" Margin="0,0,0,10">
+                    <DataGrid x:Name="MachineDataGrid" ItemsSource="{Binding MachineList}" SelectedItem="{Binding SelectedMachine}" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Extended" SelectionUnit="FullRow" Background="#252525" RowBackground="#1E1E1E" AlternatingRowBackground="#2D2D2D" Foreground="White" BorderBrush="#444" GridLinesVisibility="Horizontal">
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Foreground" Value="Black"/>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="설비명" Binding="{Binding Name}" Width="*"/>
+                            <DataGridTextColumn Header="라인" Binding="{Binding LineId}" Width="70"/>
+                            <DataGridTextColumn Header="상태" Binding="{Binding Status}" Width="80"/>
+                            <DataGridTextColumn Header="생산량" Binding="{Binding ProductionCount}" Width="90"/>
+                            <DataGridTextColumn Header="마지막 생산" Binding="{Binding LastProductionTime}" Width="160"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </GroupBox>
+
+                <GroupBox Grid.Row="1" Header="설비 상세 정보" Foreground="White" BorderBrush="#555" Background="#252525">
+                    <Grid Margin="15">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid Margin="0,0,0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="설비명" Foreground="#AAAAAA"/>
+                            <TextBlock Grid.Column="1" Text="{Binding SelectedMachine.Name}" Foreground="White" FontWeight="Bold"/>
+                        </Grid>
+
+                        <Grid Grid.Row="1" Margin="0,0,0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="소속 라인" Foreground="#AAAAAA"/>
+                            <TextBlock Grid.Column="1" Text="{Binding SelectedMachine.LineId}" Foreground="White"/>
+                        </Grid>
+
+                        <Grid Grid.Row="2" Margin="0,0,0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="현재 상태" Foreground="#AAAAAA"/>
+                            <TextBlock Grid.Column="1" Text="{Binding SelectedMachine.Status}" Foreground="#28A745" FontWeight="Bold"/>
+                        </Grid>
+
+                        <Grid Grid.Row="3" Margin="0,0,0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="누적 생산량" Foreground="#AAAAAA"/>
+                            <TextBlock Grid.Column="1" Text="{Binding SelectedMachine.ProductionCount, StringFormat={}{0:0} 개}" Foreground="White" FontWeight="Bold"/>
+                        </Grid>
+
+                        <Grid Grid.Row="4" Margin="0,0,0,15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="마지막 생산" Foreground="#AAAAAA"/>
+                            <TextBlock Grid.Column="1" Text="{Binding SelectedMachine.LastProductionTime}" Foreground="White"/>
+                        </Grid>
+
+                        <StackPanel Grid.Row="5" Orientation="Horizontal">
+                            <Button Content="▶ 가동"
+                    Command="{Binding ControlMachineCommand}"
+                    CommandParameter="가동"
+                    Width="100"
+                    Height="32"
+                    Margin="0,0,8,0"
+                    Background="#28A745"
+                    Foreground="White"
+                    BorderThickness="0"
+                    FontWeight="Bold"/>
+
+                            <Button Content="■ 정지"
+                    Command="{Binding ControlMachineCommand}"
+                    CommandParameter="정지"
+                    Width="100"
+                    Height="32"
+                    Background="#DC3545"
+                    Foreground="White"
+                    BorderThickness="0"
+                    FontWeight="Bold"/>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

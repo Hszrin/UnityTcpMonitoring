@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\mesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\unitytcpmonitoringserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEDF555-9EC1-4587-9C16-99C376DBB553}|MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\minimes.shared\\unitytcpmonitoring.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFEDF555-9EC1-4587-9C16-99C376DBB553}|MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj|solutionrelative:minimes.shared\\unitytcpmonitoring.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF072CEA-1F3D-4205-8448-0C257901C8F3}|MiniMesApp\\UnityTcpMonitoringApp.csproj|c:\\users\\swjwp\\source\\repos\\unitytcpmonitoring\\minimesapp\\unitytcpmonitoringapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF072CEA-1F3D-4205-8448-0C257901C8F3}|MiniMesApp\\UnityTcpMonitoringApp.csproj|solutionrelative:minimesapp\\unitytcpmonitoringapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\repositories\\imachinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\services\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\services\\wpfpackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\repositories\\ilinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\services\\unitypackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\repositories\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\repositories\\linerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDC095-DAF7-A351-A29C-3A968263CD99}|..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj|c:\\users\\swjwp\\source\\repos\\mesequipmentsimulator\\minimesserver\\services\\packetsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Services\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\NetworkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Services\\NetworkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\SettingViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\ViewModels\\SettingViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\20260619002003_fuck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Migrations\\20260619002003_fuck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMes.Shared\\Models\\Line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Services\\PacketSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMes.Shared\\Models\\Machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\ViewModels\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\ServerConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\Services\\ServerConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\ViewModels\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\LineViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\ViewModels\\LineViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\UserChangedMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniMesApp\\ViewModels\\UserChangedMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnityTcpMonitoring.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj",
+              "RelativeDocumentMoniker": "MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj",
+              "RelativeToolTip": "MiniMes.Shared\\UnityTcpMonitoring.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T12:24:30.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Services\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketHandler.cs",
+              "RelativeToolTip": "MiniMesApp\\Services\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:21:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Services\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\NetworkService.cs",
+              "RelativeToolTip": "MiniMesApp\\Services\\NetworkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:23:43.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SettingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\SettingViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\ViewModels\\SettingViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\SettingViewModel.cs",
+              "RelativeToolTip": "MiniMesApp\\ViewModels\\SettingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:14:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\IMachineRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\IMachineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\IMachineRepository.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\IMachineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:52:17.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\ClientManager.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\ClientManager.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\ClientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T00:16:22.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Commands.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Commands.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Commands.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:42:17.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityTcpMonitoringServer.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\UnityTcpMonitoringServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T12:22:16.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\MesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\MesDbContext.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\MesDbContext.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\MesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:08:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260619002003_fuck.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\20260619002003_fuck.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Migrations\\20260619002003_fuck.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\20260619002003_fuck.cs",
+              "RelativeToolTip": "MiniMesApp\\Migrations\\20260619002003_fuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T12:24:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MesDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MiniMesApp\\Migrations\\MesDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T12:24:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnityTcpMonitoringApp.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\UnityTcpMonitoringApp.csproj",
+              "RelativeDocumentMoniker": "MiniMesApp\\UnityTcpMonitoringApp.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\UnityTcpMonitoringApp.csproj",
+              "RelativeToolTip": "MiniMesApp\\UnityTcpMonitoringApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T12:20:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAMEAAAAAAAAAAAASwNUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-29T12:21:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Program.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Program.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:07:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "MiniMes.Shared\\Models\\Line.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Line.cs",
+              "RelativeToolTip": "MiniMes.Shared\\Models\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:41:32.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PacketSender.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketSender.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Services\\PacketSender.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\PacketSender.cs",
+              "RelativeToolTip": "MiniMesApp\\Services\\PacketSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:21:13.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "MiniMes.Shared\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMes.Shared\\Models\\Machine.cs",
+              "RelativeToolTip": "MiniMes.Shared\\Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:29:48.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WPFPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\WPFPacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\WPFPacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\WPFPacketHandler.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\WPFPacketHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwLAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:38:04.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MiniMesApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:29:16.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\ILineRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\ILineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\ILineRepository.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\ILineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:18:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnityPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\UnityPacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\UnityPacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\UnityPacketHandler.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\UnityPacketHandler.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:38:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\MachineRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\MachineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\MachineRepository.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\MachineRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowH4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:36:32.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\Services\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\Services\\ServerConnection.cs",
+              "RelativeToolTip": "MiniMesApp\\Services\\ServerConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:21:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "MiniMesApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA1wFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:24:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LineViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\LineViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\ViewModels\\LineViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\LineViewModel.cs",
+              "RelativeToolTip": "MiniMesApp\\ViewModels\\LineViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:34:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAAVAAAAAAAAAAAtwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-17T14:10:07.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserChangedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\UserChangedMessage.cs",
+              "RelativeDocumentMoniker": "MiniMesApp\\ViewModels\\UserChangedMessage.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\UnityTcpMonitoring\\MiniMesApp\\ViewModels\\UserChangedMessage.cs",
+              "RelativeToolTip": "MiniMesApp\\ViewModels\\UserChangedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T08:42:53.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LineRepository .cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\LineRepository .cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\LineRepository .cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\LineRepository .cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Repositories\\LineRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:18:22.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PacketSender.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\PacketSender.cs",
+              "RelativeDocumentMoniker": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\PacketSender.cs",
+              "ToolTip": "C:\\Users\\swjwp\\source\\repos\\MesEquipmentSimulator\\MiniMesServer\\Services\\PacketSender.cs",
+              "RelativeToolTip": "..\\MesEquipmentSimulator\\MiniMesServer\\Services\\PacketSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:06:47.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

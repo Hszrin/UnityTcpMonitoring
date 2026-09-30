@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="UnityTcpMonitoringApp.Views.SettingView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UnityTcpMonitoringApp"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Margin="30">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+            <TextBlock Text="⚙️ 시스템 환경설정" Foreground="White" FontSize="20" FontWeight="Bold" Margin="0,0,0,20"/>
+
+            <TextBlock Text="관리자 이름 입력" Foreground="Gray" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding AdminName, UpdateSourceTrigger=PropertyChanged}" 
+                     Height="30" Background="#2D2D30" Foreground="White" BorderBrush="#3E3E42" VerticalContentAlignment="Center" Padding="5,0,0,0" Margin="0,0,0,15"/>
+
+            <Button Content="💾 설정 저장 및 전송" Command="{Binding SaveSettingsCommand}" 
+                    Height="40" Background="#4CAF50" Foreground="White" BorderThickness="0" FontWeight="Bold"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
