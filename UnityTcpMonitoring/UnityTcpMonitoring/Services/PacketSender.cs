@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
-namespace UnityTcpMonitoringApp.Services
+namespace UnityTcpMonitoring.Services
 {
     internal class PacketSender
     {
         private readonly NetworkStream _stream;
-        private readonly SemaphoreSlim _lock = new(1, 1);
+        private readonly SemaphoreSlim _sendLock = new(1, 1);
 
         public PacketSender(NetworkStream stream)
         {
@@ -23,7 +19,8 @@ namespace UnityTcpMonitoringApp.Services
             string json = JsonSerializer.Serialize(packet) + "\n";
             byte[] data = Encoding.UTF8.GetBytes(json);
 
-            await _lock.WaitAsync();
+            // 하나의 NetworkStream에 여러 쓰기 작업이 겹치지 않도록 송신을 직렬화한다.
+            await _sendLock.WaitAsync();
 
             try
             {
@@ -32,7 +29,7 @@ namespace UnityTcpMonitoringApp.Services
             }
             finally
             {
-                _lock.Release();
+                _sendLock.Release();
             }
         }
     }

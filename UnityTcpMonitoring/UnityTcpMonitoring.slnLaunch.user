@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

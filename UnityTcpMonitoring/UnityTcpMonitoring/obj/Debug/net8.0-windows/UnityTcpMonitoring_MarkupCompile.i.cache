@@ -1,20 +1,20 @@
 ﻿UnityTcpMonitoring
 1.0.0.0
 
-winexe
+exe
 C#
 .cs
-C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\
+C:\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\
 UnityTcpMonitoring
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\swjwp\source\repos\UnityTcpMonitoring\UnityTcpMonitoring\App.xaml
+C:\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\App.xaml
 41234529719
 
-22225730834
-234-1764709525
+19-1046198446
+245-1379597113
 MainWindow.xaml;Views\AddMachineWindow.xaml;Views\DashboardView.xaml;Views\SettingView.xaml;
 
-False
+True
 

@@ -1,13 +1,8 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.Mvvm.Messaging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace UnityTcpMonitoringApp.ViewModels
+namespace UnityTcpMonitoring.ViewModels
 {
     public partial class SettingViewModel : ObservableObject
     {
@@ -17,7 +12,7 @@ namespace UnityTcpMonitoringApp.ViewModels
         [RelayCommand]
         private void SaveSettings()
         {
-            // 💡 우체국(WeakReferenceMessenger)을 통해 편지를 전국에 방송(Broadcast)합니다!
+            // 설정 화면과 대시보드를 직접 참조하지 않도록 메시지로 변경 사항을 전달한다.
             WeakReferenceMessenger.Default.Send(new UserChangedMessage(AdminName));
         }
     }

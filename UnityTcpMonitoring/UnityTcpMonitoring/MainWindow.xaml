@@ -4,7 +4,7 @@
         xmlns:vm="clr-namespace:UnityTcpMonitoring.ViewModels" 
         xmlns:views="clr-namespace:UnityTcpMonitoring.Views"
         Title="MES System" Height="500" Width="800" WindowStartupLocation="CenterScreen">
-    
+
     <Window.DataContext>
         <vm:MainViewModel />
     </Window.DataContext>

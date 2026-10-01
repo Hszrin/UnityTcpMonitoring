@@ -5,9 +5,9 @@ VisualStudioVersion = 17.14.37328.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTcpMonitoring", "UnityTcpMonitoring\UnityTcpMonitoring.csproj", "{DB67F29B-C460-4393-AF48-2BF788A48073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTcpMonitoringShared", "UnityTcpMonitoring.Shared\UnityTcpMonitoringShared.csproj", "{A220D902-5E89-52E9-E728-C70D9F53D53C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTcpMonitoringServer", "UnityTcpMonitoringServer\UnityTcpMonitoringServer.csproj", "{D3B77462-DB2B-C284-CE23-55BFC21A285C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTcpMonitoringServer", "UnityTcpMonitoring.Server\UnityTcpMonitoringServer.csproj", "{228B5752-FDAB-DEAD-580B-048F2442A284}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTcpMonitoringShared", "UnityTcpMonitoringShared\UnityTcpMonitoringShared.csproj", "{AA092770-9A4F-550A-C887-F99D815B1197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{DB67F29B-C460-4393-AF48-2BF788A48073}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB67F29B-C460-4393-AF48-2BF788A48073}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB67F29B-C460-4393-AF48-2BF788A48073}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A220D902-5E89-52E9-E728-C70D9F53D53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A220D902-5E89-52E9-E728-C70D9F53D53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A220D902-5E89-52E9-E728-C70D9F53D53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A220D902-5E89-52E9-E728-C70D9F53D53C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{228B5752-FDAB-DEAD-580B-048F2442A284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{228B5752-FDAB-DEAD-580B-048F2442A284}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{228B5752-FDAB-DEAD-580B-048F2442A284}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{228B5752-FDAB-DEAD-580B-048F2442A284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B77462-DB2B-C284-CE23-55BFC21A285C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B77462-DB2B-C284-CE23-55BFC21A285C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B77462-DB2B-C284-CE23-55BFC21A285C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B77462-DB2B-C284-CE23-55BFC21A285C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA092770-9A4F-550A-C887-F99D815B1197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA092770-9A4F-550A-C887-F99D815B1197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA092770-9A4F-550A-C887-F99D815B1197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA092770-9A4F-550A-C887-F99D815B1197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

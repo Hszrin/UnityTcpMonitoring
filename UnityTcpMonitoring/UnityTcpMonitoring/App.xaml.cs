@@ -1,15 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Configuration;
-using System.Data;
 using System.Windows;
 
-namespace UnityTcpMonitoringApp
+namespace UnityTcpMonitoring
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
     public partial class App : Application
     {
     }
-
 }

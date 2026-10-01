@@ -1,10 +1,10 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using UnityTcpMonitoring.Shared.Models;
+using UnityTcpMonitoringShared.Models;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace UnityTcpMonitoringApp.ViewModels
+namespace UnityTcpMonitoring.ViewModels
 {
     public partial class LineViewModel : ObservableObject
     {
