@@ -332,6 +332,34 @@ Unity Simulator
      TCP Server
         ↓
      WPF Client
+     
+Unity Simulator 조작법
+
+Unity 시뮬레이터에서는 마우스를 이용하여 공장 내부 화면을 이동하고 확대 / 축소할 수 있습니다.
+
+| 조작 | 기능 |
+|---|---|
+| 마우스 휠 버튼 드래그 | 화면 이동 |
+| 마우스 휠 위 / 아래 | 화면 확대 / 축소 |
+
+화면 이동
+
+마우스 휠 버튼을 누른 상태에서 마우스를 움직이면  
+공장 내부 화면을 자유롭게 이동할 수 있습니다.
+
+```text
+Mouse Wheel Click + Drag
+        ↓
+화면 이동
+
+확대 / 축소
+마우스 휠을 위 또는 아래로 돌려
+공장 설비 화면을 확대하거나 축소할 수 있습니다.
+
+Mouse Wheel Scroll
+        ↓
+Zoom In / Zoom Out
+
 
 실행 화면
 Unity 설비 시뮬레이터
