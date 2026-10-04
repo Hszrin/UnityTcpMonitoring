@@ -140,8 +140,7 @@
               "RelativeToolTip": "UnityTcpMonitoringShared\\Models\\Machine.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:18:02.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:18:02.939Z"
             },
             {
               "$type": "Document",
@@ -153,8 +152,7 @@
               "RelativeToolTip": "UnityTcpMonitoringShared\\Models\\Line.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:18:02.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:18:02.182Z"
             },
             {
               "$type": "Document",
@@ -166,8 +164,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Program.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:37.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:37.913Z"
             },
             {
               "$type": "Document",
@@ -179,8 +176,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\Services\\PacketHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:23.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:23.236Z"
             },
             {
               "$type": "Document",
@@ -192,8 +188,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\Services\\ServerConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:22.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:22.652Z"
             },
             {
               "$type": "Document",
@@ -205,8 +200,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\Services\\PacketSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:21.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:21.89Z"
             },
             {
               "$type": "Document",
@@ -218,8 +212,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\ViewModels\\AddMachineView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:20.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:20.312Z"
             },
             {
               "$type": "Document",
@@ -231,8 +224,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\MesDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:11.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:11.723Z"
             },
             {
               "$type": "Document",
@@ -243,8 +235,7 @@
               "ToolTip": "C:\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
               "RelativeToolTip": "UnityTcpMonitoring\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-29T13:27:29.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T13:27:29.756Z"
             },
             {
               "$type": "Document",
@@ -256,8 +247,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:31:44.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T11:31:44.766Z"
             },
             {
               "$type": "Document",
@@ -282,8 +272,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\ViewModels\\LineViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:19.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:19.062Z"
             },
             {
               "$type": "Document",
@@ -295,8 +284,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:16.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:16.092Z"
             },
             {
               "$type": "Document",
@@ -308,8 +296,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:16:09.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:16:09.046Z"
             },
             {
               "$type": "Document",
@@ -321,8 +308,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Commands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:17:12.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:17:12.562Z"
             },
             {
               "$type": "Document",
@@ -334,8 +320,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:16:07.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:16:07.567Z"
             },
             {
               "$type": "Document",
@@ -347,8 +332,7 @@
               "RelativeToolTip": "UnityTcpMonitoringServer\\Repositories\\LineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:15:48.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:15:48.065Z"
             },
             {
               "$type": "Document",
@@ -372,8 +356,7 @@
               "RelativeToolTip": "UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:31:36.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T13:31:36.831Z"
             },
             {
               "$type": "Document",
@@ -395,8 +378,7 @@
               "ToolTip": "C:\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
               "RelativeToolTip": "UnityTcpMonitoring\\Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-29T14:04:34.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T14:04:34.826Z"
             },
             {
               "$type": "Document",
@@ -479,8 +461,7 @@
               "ToolTip": "C:\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
               "RelativeToolTip": "UnityTcpMonitoring\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-29T13:22:04.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T13:22:04.191Z"
             },
             {
               "$type": "Document",

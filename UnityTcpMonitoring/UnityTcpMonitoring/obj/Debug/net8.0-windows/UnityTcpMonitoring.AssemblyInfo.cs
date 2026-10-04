@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnityTcpMonitoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb4832ca6bcdb389ecbaacdbf4a91c68314cd610")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68755edb5c272e7ae215fa244938729fdff0b9e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnityTcpMonitoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnityTcpMonitoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

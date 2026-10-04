@@ -52,7 +52,7 @@ namespace UnityTcpMonitoring.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UnityTcpMonitoring;V1.0.0.0;component/views/addmachinewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UnityTcpMonitoring;component/views/addmachinewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AddMachineWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
