@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35j60QQ9/Oo=",
+  "dgSpecHash": "4DrR4KSZ0t0=",
   "success": true,
-  "projectFilePath": "C:\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+  "projectFilePath": "C:\\Users\\swjwp\\OneDrive\\Desktop\\Mes\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swjwp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\swjwp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

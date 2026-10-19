@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swjwp\\OneDrive\\Desktop\\Mes\\UnityTcpMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\ClientManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\PacketSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\UnityPacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\MesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\WPFPacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\ServerConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\NetworkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\AddMachineView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\UnityTcpMonitoringShared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\LineRepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\LineViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\UserChangedMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\UnityPacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\UnityPacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\UnityPacketHandler.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\UnityPacketHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:53:48.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketSender.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\PacketSender.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\PacketSender.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\PacketSender.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\PacketSender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:53:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\ClientManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\ClientManager.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\ClientManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:52:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WPFPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\WPFPacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\WPFPacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\WPFPacketHandler.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Services\\WPFPacketHandler.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:53:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\MachineRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:01:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Program.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Program.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwHQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:50:45.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\ServerConnection.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\ServerConnection.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:49:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacketSender.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketSender.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketSender.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketSender.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketSender.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:49:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\NetworkService.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\NetworkService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:48:54.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\MesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\MesDbContext.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\MesDbContext.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\MesDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:52:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:06:08.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnityTcpMonitoringServer.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\UnityTcpMonitoringServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:51:50.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnityTcpMonitoring.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\UnityTcpMonitoring.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:40:48.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:36:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddMachineView.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\AddMachineView.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\AddMachineView.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\AddMachineView.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\AddMachineView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:39:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:36:41.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddMachineWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:04:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:04:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnityTcpMonitoringShared.csproj",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\UnityTcpMonitoringShared.csproj",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\UnityTcpMonitoringShared.csproj",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\UnityTcpMonitoringShared.csproj",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\UnityTcpMonitoringShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:45:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:39:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\ILineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:01:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\IMachineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:00:14.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:58:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LineRepository .cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\LineRepository .cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\LineRepository .cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\LineRepository .cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Repositories\\LineRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:00:59.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingView.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\SettingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:59:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LineViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\LineViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\LineViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\LineViewModel.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\LineViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:39:54.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:39:50.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddMachineWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Views\\AddMachineWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:47:33.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserChangedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\UserChangedMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\UserChangedMessage.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\UserChangedMessage.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\UserChangedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:41:59.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Machine.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:45:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Line.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Line.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringShared\\Models\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:45:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Commands.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Commands.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Commands.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoringServer\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:52:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketHandler.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\Services\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:49:03.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T13:46:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SettingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs",
+              "ToolTip": "C:\\Users\\swjwp\\OneDrive\\Desktop\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs",
+              "RelativeToolTip": "..\\..\\UnityTcpMonitoring\\UnityTcpMonitoring\\ViewModels\\SettingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:40:00.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

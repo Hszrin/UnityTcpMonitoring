@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-C:\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\
+C:\Users\swjwp\OneDrive\Desktop\Mes\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\obj\Debug\net8.0-windows\
 UnityTcpMonitoring
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\App.xaml
+C:\Users\swjwp\OneDrive\Desktop\Mes\UnityTcpMonitoring\UnityTcpMonitoring\UnityTcpMonitoring\App.xaml
 41234529719
 
 19-1046198446
-245-1379597113
+245-409974513
 MainWindow.xaml;Views\AddMachineWindow.xaml;Views\DashboardView.xaml;Views\SettingView.xaml;
 
-True
+False
 
